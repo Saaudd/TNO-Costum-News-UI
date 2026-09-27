@@ -1,6 +1,6 @@
 # Custom News UI: TNO Style for HOI4 
 
-![Mod Thumbnail](thumbnail.jpg)
+![Mod Thumbnail](TNO%20Costum%20News%20UI/thumbnail.jpg)
 
 > A complete user interface overhaul for Hearts of Iron IV that transforms vanilla event pop-ups into immersive, highly detailed newspapers and official intelligence documents, heavily inspired by *The New Order: Last Days of Europe (TNO)* mod.
 
